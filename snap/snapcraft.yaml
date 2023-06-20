@@ -1,4 +1,4 @@
-name: yt-dlp
+name: yt-dlp-fran
 summary: A fork of youtube-dl with additional features and patches 
 description: |
       Based on youtube-dl 2021.06.06 commit/379f52a and 
